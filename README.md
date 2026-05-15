@@ -33,8 +33,7 @@ confirmation, GPS+RTC-stamped audit log on SD. Solo rewrite in Embedded C, May 2
 **Highlights**
 
 - **4th of 50 teams** at Code Hustle 10.0 (UPES Hypervision × GeeksforGeeks) — led 4-person team *Bytewave*; awarded *Best Innovative Idea*
-- **GRAPH-E-THON 2.0** Round 2 qualifier (hardware role)
 
 ---
 
-📧 your.email@gmail.com · 🔗 [LinkedIn](https://www.linkedin.com/in/diwachauhan/)
+📧 diwachauhan@gmail.com · 🔗 [LinkedIn](https://www.linkedin.com/in/diwachauhan/)
